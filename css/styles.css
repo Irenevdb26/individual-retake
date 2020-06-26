@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+body{
+	background-color:#473E5B;
+		color:#E17369;
+	
+			
+}
+
+h2{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color:bisque;
+	
+	
+	
+}
+
+h3{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: bisque;
+	
+	
+	
+}
+
+.jumbotron {
+	background-color: antiquewhite;
+	
+}
+
+ .dates{
+	background-color: navajowhite;
+	
+}
+
+.eu {
+	background-color: sandybrown;
+}
